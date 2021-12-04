@@ -1,0 +1,77 @@
+body {background-image: url(img/background.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      }
+
+.container {background-color: rgba(0,0,0,0.5);
+            border-radius: 15px;
+            width:65%;
+            margin: auto;
+            margin-top:5%;
+            padding-bottom:5%;
+            }
+/* sezione header */
+
+header {text-align: center;}
+
+.logo {
+      width: 20%;
+      height:auto;
+      padding-top:25px;
+      }
+
+div {font-family: 'Poppins', sans-serif;
+    color: rgb(0,236,0);
+    font-size: 25px;
+    }
+
+/* sezione nav */
+
+.pulsantiera {background-color: rgb(0,236,0);
+              text-align: center;
+              width:80%;
+              margin:auto;
+              padding-bottom:5px;
+              }
+
+/* sezione main */
+
+section {margin-left:10%;
+        padding-top:1em;
+        }
+
+span {font-size:25px;
+      margin-right:5px;
+      vertical-align: bottom;}
+
+.utente {color:#fff;
+         font-size: 18px;
+         line-height: 5px;
+         padding-top:10px;
+        }
+
+.descrizione {color:#fff;
+              font-family: 'Poppins', sans-serif;
+              font-weight: 300;
+              font-size: 12px;
+              line-height: normal;
+              padding-top:10px;
+              }
+
+.carica1 {width:250px;
+          height:20px;
+          background-color: orange;
+          border-radius:5px;
+          }
+
+.carica2 {width:450px;
+          height:20px;
+          background-color:rgb(0,208,30);
+          border-radius:5px;
+          }
+
+.carica3 {width:125px;
+          height:20px;
+          background-color: red;
+          border-radius:5px;
+          }
